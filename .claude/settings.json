@@ -1,0 +1,7 @@
+{
+  "project": "claude-mcp-lab",
+  "mode": "learning",
+  "mcp": {
+    "enabled": true
+  }
+}
